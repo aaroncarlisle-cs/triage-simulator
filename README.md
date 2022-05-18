@@ -1,6 +1,8 @@
 # triage-simulator
 Team Project for CSIS 2420
+
 By Aaron Carlisle and Hayden Pack
+
 April 2022
 
 Driver class: TeamProject.java
